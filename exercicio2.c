@@ -9,7 +9,7 @@ int main(void) {
         scanf("%d", &num);
         
         if (num % 2 != 0) {
-            break; // Se o número for ímpar, encerra o loop
+            break; 
         }
         
         soma += num;
